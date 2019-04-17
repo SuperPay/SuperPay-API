@@ -77,7 +77,7 @@ POST https://superpay.one/api/demo/order
     "msg":"下单成功",
     "data":{
         "trade_no":"190413152811ethDemorKU5hd5eSD",
-        "out_trade_no":"a0015482ebcddd"
+        "out_trade_no":"a0015482ebcddd",
         "address":"0xe33b5c1bc3b4c10967bb57b40b9574ea1e40c529",
         "coin":"eth",
         "num":"0.00087893",
