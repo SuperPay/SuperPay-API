@@ -4,7 +4,6 @@
 SuperPay API提供了一种简单易用、功能强大和安全的在线支付方法，来接受比特币、USDT、以太坊和其他加密货币。[了解更多](https://www.superpay.one)
 
 * [English Version](./README.md)
-* [PHP库](https://github.com/SuperPayNet/deepay-php/blob/master/README-CN.md)
 
 
 ## 概览
