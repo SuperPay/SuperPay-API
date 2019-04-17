@@ -1,7 +1,7 @@
 
 ### SuperPay API接口文档
 
-SuperPay API提供了一种简单易用、功能强大和安全的在线支付方法，来接受比特币、USDT、以太坊和其他加密货币。[了解更多](https://superpay.one)
+SuperPay API提供了一种简单易用、功能强大和安全的在线支付方法，来接受比特币、USDT、以太坊和其他加密货币。[了解更多](https://www.superpay.one)
 
 * [English Version](./README.md)
 * [PHP库](https://github.com/SuperPayNet/deepay-php/blob/master/README-CN.md)
@@ -17,14 +17,14 @@ SuperPay API提供了一种简单易用、功能强大和安全的在线支付�
 
 
 ## 获取授权
-你需要获取商户ID和API密钥以访问SuperPay API.[马上注册](https://superpay.one) 
+你需要获取商户ID和API密钥以访问SuperPay API.[马上注册](https://www.superpay.one) 
 
 ## 换算汇率
 
 获取系统支持的加密货币与法币的汇率。此接口是公共的，不需要身份验证。
 
 ```
-POST https://superpay.one/api/demo/coin2cny
+POST https://www.superpay.one/app/api/demo/coin2cny
 ```
 
 #### 请求参数
@@ -56,7 +56,7 @@ POST https://superpay.one/api/demo/coin2cny
 创建订单纪录并返回订单数据。
 
 ```
-POST https://superpay.one/api/demo/order
+POST https://www.superpay.one/app/api/demo/order
 ```
 
 #### 请求参数
@@ -94,7 +94,7 @@ POST https://superpay.one/api/demo/order
 通过提交订单时获取到的订单号trade_no, 异步查询订单支付状态
 
 ```
-POST https://superpay.one/api/demo/trade_status
+POST https://www.superpay.one/app/api/demo/trade_status
 ```
 
 #### 请求参数
