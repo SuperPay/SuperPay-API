@@ -17,7 +17,7 @@ SuperPay API provides an easy-to-use, powerful and secure online payment method 
 Go to the [SuperPay](https://www.superpay.one) to get the merchant ID and key to access the SuperPay API.
 
 
-##API
+## API
 
 #### Exchange Rate
 
